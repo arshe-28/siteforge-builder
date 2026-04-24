@@ -27,5 +27,22 @@ Open the `index.html` file in a browser.
 - Managing UI state across multiple sections  
 - Implementing drag-and-drop behavior  
 
+## Screenshots
+
+### Landing Page
+![Landing](landingpage.png)
+
+### Template Selection
+![Templates](template-selection.png)
+
+### Builder Interface (Editing View)
+![Builder 1](builder-page1.png)
+
+### Builder Interface (Final Layout)
+![Builder 2](builder-page2.png)
+
+### Export Feature
+![Export](export.png)
+
 ## Note
 This is a self-developed project created to explore frontend development and build a functional interactive tool.
